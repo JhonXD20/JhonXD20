@@ -1,4 +1,5 @@
-### Hi there 👋
+### Ola pessoal, seja muito bem vindo 👋
+Aqui é onde eu armazeno meus códigos de estudo e projetos, espero que gostem !!
 
 <!--
 **JhonXD20/JhonXD20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
